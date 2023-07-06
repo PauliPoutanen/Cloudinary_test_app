@@ -1,0 +1,16 @@
+{
+  "name": "cloudback",
+  "version": "1.0.0",
+  "description": "serveri cloudinary-kokeilulle",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Pauli",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1"
+  }
+}
